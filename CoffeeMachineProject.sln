@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoffeeMachineTests", "CoffeeMachineProject\CoffeeMachineTests.csproj", "{6746E819-C348-44E0-99B0-059C627AAC28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoffeeMachineConsole", "CoffeeMachine\CoffeeMachineConsole.csproj", "{EE033C6B-861C-4BD2-9BA7-9C7BBF1DA571}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoffeeMachineLibraryIteration1", "CoffeeMachineLibrary\CoffeeMachineLibraryIteration1.csproj", "{815C3E5A-B8AC-4FB8-AD08-8172F1022F49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoffeeMachineLibraryIteration2", "CoffeeMachineLibraryIteration2\CoffeeMachineLibraryIteration2.csproj", "{21CD5C63-1CF8-43A6-92F1-B87929E65657}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoffeeMachineLibraryIteration34", "CoffeeMachineLibraryIteration3\CoffeeMachineLibraryIteration34.csproj", "{E532E92E-E760-4542-92EA-8B74507A7EB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoffeeMachineLibraryIteration5", "CoffeeMachineLibraryIteration5\CoffeeMachineLibraryIteration5.csproj", "{BBE20C18-50BA-454C-995C-97E24ACEACA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6746E819-C348-44E0-99B0-059C627AAC28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6746E819-C348-44E0-99B0-059C627AAC28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6746E819-C348-44E0-99B0-059C627AAC28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6746E819-C348-44E0-99B0-059C627AAC28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE033C6B-861C-4BD2-9BA7-9C7BBF1DA571}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE033C6B-861C-4BD2-9BA7-9C7BBF1DA571}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE033C6B-861C-4BD2-9BA7-9C7BBF1DA571}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE033C6B-861C-4BD2-9BA7-9C7BBF1DA571}.Release|Any CPU.Build.0 = Release|Any CPU
+		{815C3E5A-B8AC-4FB8-AD08-8172F1022F49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{815C3E5A-B8AC-4FB8-AD08-8172F1022F49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{815C3E5A-B8AC-4FB8-AD08-8172F1022F49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{815C3E5A-B8AC-4FB8-AD08-8172F1022F49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21CD5C63-1CF8-43A6-92F1-B87929E65657}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21CD5C63-1CF8-43A6-92F1-B87929E65657}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21CD5C63-1CF8-43A6-92F1-B87929E65657}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21CD5C63-1CF8-43A6-92F1-B87929E65657}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E532E92E-E760-4542-92EA-8B74507A7EB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E532E92E-E760-4542-92EA-8B74507A7EB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E532E92E-E760-4542-92EA-8B74507A7EB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E532E92E-E760-4542-92EA-8B74507A7EB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBE20C18-50BA-454C-995C-97E24ACEACA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBE20C18-50BA-454C-995C-97E24ACEACA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBE20C18-50BA-454C-995C-97E24ACEACA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBE20C18-50BA-454C-995C-97E24ACEACA0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1991B500-AD17-43A6-B408-C5DC0375CC58}
+	EndGlobalSection
+EndGlobal

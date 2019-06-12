@@ -1,0 +1,6 @@
+C:\Users\Florian\source\repos\CoffeeMachineProject\CoffeeMachineLibraryIteration3\bin\Debug\CoffeeMachineLibraryIteration3.dll
+C:\Users\Florian\source\repos\CoffeeMachineProject\CoffeeMachineLibraryIteration3\bin\Debug\CoffeeMachineLibraryIteration3.pdb
+C:\Users\Florian\source\repos\CoffeeMachineProject\CoffeeMachineLibraryIteration3\obj\Debug\CoffeeMachineLibraryIteration3.csproj.CoreCompileInputs.cache
+C:\Users\Florian\source\repos\CoffeeMachineProject\CoffeeMachineLibraryIteration3\obj\Debug\CoffeeMachineLibraryIteration3.dll
+C:\Users\Florian\source\repos\CoffeeMachineProject\CoffeeMachineLibraryIteration3\obj\Debug\CoffeeMachineLibraryIteration3.pdb
+C:\Users\Florian\source\repos\CoffeeMachineProject\CoffeeMachineLibraryIteration3\obj\Debug\CoffeeMachineLibraryIteration3.csprojAssemblyReference.cache
